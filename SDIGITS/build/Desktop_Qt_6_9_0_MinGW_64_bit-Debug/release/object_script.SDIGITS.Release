@@ -1,0 +1,11 @@
+release/dashboard.o
+release/main.o
+release/mainwindow.o
+release/profilewidget.o
+release/trackexpenses.o
+release/createuserwidget.o
+release/moc_dashboard.o
+release/moc_mainwindow.o
+release/moc_profilewidget.o
+release/moc_trackexpenses.o
+release/moc_createuserwidget.o

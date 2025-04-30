@@ -1,0 +1,11 @@
+debug/dashboard.o
+debug/main.o
+debug/mainwindow.o
+debug/profilewidget.o
+debug/trackexpenses.o
+debug/createuserwidget.o
+debug/moc_dashboard.o
+debug/moc_mainwindow.o
+debug/moc_profilewidget.o
+debug/moc_trackexpenses.o
+debug/moc_createuserwidget.o
